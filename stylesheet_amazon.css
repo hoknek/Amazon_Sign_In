@@ -1,0 +1,136 @@
+
+submit_btn {
+    padding: 5px 50px !important;
+    background-image: linear-gradient(#ffc078, #f70707);
+}
+.signin_cont {
+    border: 5px;
+}
+.container {
+    border: 5px
+}
+.container:nth-child(2){
+    border-top: 10px solid black;
+}
+.continue_btn {
+    color: black;
+    border-color: black;
+    background-image: linear-gradient(whitesmoke, orange);
+}
+/*/*----------------------------------------------------------amazon logo-------------------------*/
+.amazon_pic {
+    width: 40%;
+}
+.amazon_image {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+}
+/*/*----------------------------------------------box around sign in------------------------------*/
+.form_line {
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    padding: 15px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.form-control:focus {
+    border-color: white;
+    box-shadow: 0 0 3px 2px rgba(228,121,17,.5);
+}
+/*/*-----------------------------------------------need help? and drop box-------------------------*/
+.btn {
+    background-color: white;
+    font-size: small;
+}
+.btn-secondary {
+    background-color: white;
+    border-color: white !important;
+    color: cornflowerblue;
+    font-size: small;
+}
+.btn-secondary:hover {
+    box-shadow: white !important;
+}
+.dropdown {
+    background-color: white;
+}
+.dropdown-toggle {
+    background-color: white !important;
+    color: cornflowerblue;
+    box-shadow: 0 0 0 0.2rem white;
+}
+.btn-secondary.dropdown-toggle:focus {
+    box-shadow: 0 white;
+}
+a.btn:hover {
+    background-color: white;
+    border-color: white;
+    color: cornflowerblue;
+}
+.btn-secondary:hover {
+    background-color: white !important;
+    color: cornflowerblue;
+    border-color: white !important;
+}
+.by_continuing {
+    font-size: 12px;
+}
+.need_help_drop {
+    font-size: 12px;
+    color: cornflowerblue;
+    text-align: left !important;
+}
+.dropdown-menu {
+    text-align: left !important;
+    border-color: white;
+}
+.btn:focus {
+    box-shadow: 0 white;
+}
+/*/*--------------------------------------------new to amazon----------------------------*/
+.new_to {
+    text-align: center;
+}
+.new_to {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid lightgrey; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    padding-top: 18px;
+    font-size: 11.5px;
+    color: gray;
+} 
+.new_to_span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+/*--------------------------------------create your amazon account-----------------------------*/
+.create_your {
+    margin-top: 8px;
+}
+.create_btn {
+    color: black;
+    border-color: grey;
+    background-image: linear-gradient(whitesmoke, lightgrey);
+}
+.conditions_etc {
+    font-size: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
+/*------------------------------------Conditions of use------------------------------------------*/
+.row {
+    border-top: 10px;
+}
+.bottom_box {
+    float: center;
+}
+.copy_right {
+    font-size: 10px;
+    text-align: center;
+}
+.lit-inline-item {
+    padding: 10px !important;
+}
